@@ -20,7 +20,7 @@
 
 1. 使用了 `C/Cpp` common 库的接口
 2. `C`ross-platform: 支持 windows/*nux/macOS 平台
-3. `C`llector-agent: 添加了一个桥接模块支持pinpoint-collector
+3. `C`ollector-agent: 添加了一个桥接模块支持pinpoint-collector
 
 Pinpoint-c-agent 帮助您接入 [pinpoint-apm](https://github.com/pinpoint-apm/pinpoint) 监控平台.\
 我们的特点:
