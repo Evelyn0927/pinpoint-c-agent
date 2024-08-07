@@ -20,7 +20,7 @@ Pinpoint-c-agent는 [pinpoint-apm](https://github.com/pinpoint-apm/pinpoint) 모
 
 `pip install pinpointPy`
 
-[hd](DOC/PY/Readme.md) 
+[더 자세한 연동 가이드](DOC/PY/Readme.md) 
 
 ## PHP Agent
 
@@ -34,11 +34,11 @@ Pinpoint-c-agent는 [pinpoint-apm](https://github.com/pinpoint-apm/pinpoint) 모
 
 `composer require pinpoint-apm/pinpoint-php-aop`
 
-[더 자세한 연동 지침](DOC/PHP/Readme.md) 
+[더 자세한 연동 가이드](DOC/PHP/Readme.md) 
 
 ## C/CPP 빌트인 API
 
-[더 자세한 연동 지침](DOC/C-CPP/Readme.md)
+[더 자세한 연동 가이드](DOC/C-CPP/Readme.md)
 
 
 ## 제공되는 테스트 프로젝트
